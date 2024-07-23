@@ -1,4 +1,5 @@
-ndex view
+#!/usr/bin/python3
+""" Index view
 """
 from flask import jsonify
 
